@@ -1,0 +1,27 @@
+.wrapper {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonWrapper {
+    height: 100vh;
+    display: flex;
+    padding: 2vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    height: 97vh;
+    width: 100%;
+    background-color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+}
+
